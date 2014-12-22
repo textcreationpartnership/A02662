@@ -35,11 +35,19 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-Concio quædam admodum elegans, docta, salubris, & pia magistri Iohannis Harpesfeldi, sacre Theologiæ
+
 #####Body#####
-Concio quædam admodum elegans, docta, salubris, & pia magistri Iohannis Harpesfeldi, sacre Theologiæ
+HOnorandi domini, re uerèdi patres, ac fratres, tanta est uestri ordmis praecellentia, tantarerum ho
+1. ¶ ORATIO GVLIEL. mi Pij Decani Cicestrensis.
+
+1. ¶ ORATIO 10 ANNIS. Wymslei Archidiaconi Londoniensis.
+
+1. MAGISTRI HVGOnis Westoni, Decani Westmonasterijoratio coram patribus et clero habita.
+
+1. RESPONSVM ET EX hortatio reuerendi patris domini Edmundi Londinensis episcopi.
+
 #####Back#####
-Concio quædam admodum elegans, docta, salubris, & pia magistri Iohannis Harpesfeldi, sacre Theologiæ
+¶ EXCVSVM LONDI. ni in aedibus Iohannis Cawodi, typographi Regiae Maiestatis.Anno. M. D. LIII. Mense
 **Types of content**
 
   * Oh, Mr. Jourdain, there is **prose** in there!
